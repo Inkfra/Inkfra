@@ -4,5 +4,5 @@ Open-source network documentation, monitoring & diagram solution
 
 ## Repositories
 
-- [inkfra/server](https://github.com/inkfra/server)
-- [inkfra/cli](https://github.com/inkfra/cli)
+- [ddosian/inkfra-server](https://github.com/ddosian/inkfra-server)
+- [ddosian/inkfra-cli](https://github.com/ddosian/inkfra-cli)
